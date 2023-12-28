@@ -1,2 +1,3 @@
 [workspace]
-members = ["ids_harvester", "core", "collector", "errerneous_ids_handler", "logs_etl"]
+members = ["ids_harvester", "types", "collector", "errerneous_handler", "logs_etl"]
+resolver = "2"
