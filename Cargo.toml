@@ -1,0 +1,2 @@
+[workspace]
+members = ["ids_harvester", "core", "collector", "errerneous_ids_handler", "logs_etl"]
